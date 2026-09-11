@@ -1,4 +1,4 @@
-# Hi, I'm Luke 👋
+# Hi, I'm Luke 
 
 ### IT Administration & Coding
 
